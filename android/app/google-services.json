@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "391361093115",
+    "project_id": "niet-portal",
+    "storage_bucket": "niet-portal.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391361093115:android:494c0f546fa7e157ffff5e",
+        "android_client_info": {
+          "package_name": "com.example.supabase_image"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391361093115-5n8ecrunog6ecc6qfan9ri47uusl2utv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.supabase_image",
+            "certificate_hash": "14234e343047b20a00fc6263b3a466b079514ce4"
+          }
+        },
+        {
+          "client_id": "391361093115-i5k2hfi19gi12vn58fu6f2epv0v8oht3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2RgK7XfsfQerAP6gf026g-c_LZDPhKHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391361093115-i5k2hfi19gi12vn58fu6f2epv0v8oht3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "391361093115-ntkkvfad81ooala2cv2g4ib0v4gpo33q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.supabaseImage"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
